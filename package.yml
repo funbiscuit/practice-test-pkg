@@ -1,0 +1,2 @@
+config:
+  module: some_name # также может быть some_mod.some_name
